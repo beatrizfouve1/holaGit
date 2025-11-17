@@ -1,1 +1,1 @@
-print("Hola git2 edito")
+print("Hola git2 edicion nueva")
